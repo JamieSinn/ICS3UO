@@ -18,13 +18,18 @@
 
     <h3>Boring H3 title</h3>
     <h4 class="fancy">Fancy H4 Title</h4>
-    
+
     <p class="fancy">content of page goes <b>in the body.</b></p>
     <p>content of <span class="blue-text">page</span> goes in the body.  This paragraph has no style. :)</p>
     <p class="fancy">This is a link to <a href="http://www.google.ca">Google</a></p>
     <p class="fancy">
     This is an image of a spaceship<br />
     <img src="http://ramrobazaar.com/uploads/1341596825343s1jpg.jpg" title="Spaceship" class="rounded-corner" />
+
+    And here is my favourite alternative to a while(true) loop<br />
+    <img src="http://i.imgur.com/QrArv1E.png" title="When pigs fly" class="rounded-corner" />
+
+
     <br /><br />
     The following text was generated from: <a href="http://www.lipsum.com/" class="cool">http://www.lipsum.com/</a><br />
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et quam diam. Praesent dolor sem, pulvinar eget fermentum at, ultrices in eros. Proin scelerisque tellus dapibus arcu ultricies iaculis. Vivamus sodales dolor a ligula suscipit eget viverra mauris porta. Fusce dictum metus id ipsum sodales consectetur. Suspendisse nibh odio, ultricies ac vulputate a, aliquet mollis metus. Curabitur ultricies pretium lorem a hendrerit. Sed malesuada vulputate eros vel molestie. Integer nulla felis, pharetra ac dignissim id, fringilla quis nunc. Nam sit amet massa eget nibh placerat commodo at vitae felis. Duis mattis neque eget dui euismod in fringilla erat fermentum. Proin faucibus lobortis pellentesque. Nullam ligula tortor, mattis sed eleifend vitae, consequat tincidunt libero. Ut a mollis mauris.
