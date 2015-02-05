@@ -21,8 +21,7 @@
 </head>
 <body>
     <h1>This is an H1 Title</h1>
-    <br /> <br />
-
+    <br />
     <p>THis activity involves creating HTML code that will reproduce this output accurately.
     The body has a 10px padding around the whole thing and the font is "Century Gothic."
     There is a background image: url("http://bglabs.evade.netdna-cdn.com/files/grey-striped-background-2072.png"); as well
