@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <title>Jamie Sinn - ICS3UO</title>
     <meta name="description" content="ICS3UO Web Development Site">
-    <meta name="author" content="PUT YOUR NAME HERE">
+    <meta name="author" content="Jamie Sinn">
     <link rel="stylesheet" href="styles.css?v=1.0">
 </head>
 <body>
@@ -14,8 +14,10 @@
     <h2>Activities</h2>
 
     <p class="parastyle">
-                     <a href="basics/">BASICS (First Acitivity)</a><br />
-                     <a href="activity-1-1.php">Activity 1.1</a>
+            <a href="basics/">BASICS (First Acitivity)</a><br />
+            <a href="activity-1-1.php">Activity 1.1</a><br/>
+            <a href="activity-1-2.php">Activity 1.2</a><br/>
+
     </p>
 
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
