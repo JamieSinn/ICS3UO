@@ -13,17 +13,21 @@
 
 <table cellpadding=’0’ cellspacing=’0’ border=’0’>
     <tr>
+        <!-- Root Image-->
         <th><a href="http://fc09.deviantart.net/fs70/i/2010/343/5/e/be_careful_by_antontang-d2nq7yy.jpg">
                 <img src="http://fc09.deviantart.net/fs70/i/2010/343/5/e/be_careful_by_antontang-d2nq7yy.jpg" alt="Be Careful"/></a>
         <p>Source Image.</p></th>
+        <!-- 100px by 100px Image -->
         <th><a href="http://fc09.deviantart.net/fs70/i/2010/343/5/e/be_careful_by_antontang-d2nq7yy.jpg">
                 <img src="http://fc09.deviantart.net/fs70/i/2010/343/5/e/be_careful_by_antontang-d2nq7yy.jpg" alt="Be Careful" width="100px" height="100px"/></a>
         <p>This image is 100px by 100px</p></th>
     </tr>
     <tr>
+        <!-- 100 Wide, auto scaled height.-->
         <th><a href="http://fc09.deviantart.net/fs70/i/2010/343/5/e/be_careful_by_antontang-d2nq7yy.jpg">
                 <img src="http://fc09.deviantart.net/fs70/i/2010/343/5/e/be_careful_by_antontang-d2nq7yy.jpg" alt="Be Careful" width="100px"/></a>
         <p>his image is scaled to have a fixed witdth of 100px</p></th>
+
         <th><a href="http://fc09.deviantart.net/fs70/i/2010/343/5/e/be_careful_by_antontang-d2nq7yy.jpg">
                 <img src="http://fc09.deviantart.net/fs70/i/2010/343/5/e/be_careful_by_antontang-d2nq7yy.jpg" alt="Be Careful" height="100px"/></a>
         <p>This image is scaled to have a fixed heigh of 100px</p></th>
