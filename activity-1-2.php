@@ -14,31 +14,31 @@
 <table cellpadding=’0’ cellspacing=’0’ border=’0’>
     <tr>
         <!-- Root Image-->
-        <th><a href="http://fc09.deviantart.net/fs70/i/2010/343/5/e/be_careful_by_antontang-d2nq7yy.jpg">
+        <td><a href="http://fc09.deviantart.net/fs70/i/2010/343/5/e/be_careful_by_antontang-d2nq7yy.jpg">
                 <img src="http://fc09.deviantart.net/fs70/i/2010/343/5/e/be_careful_by_antontang-d2nq7yy.jpg" alt="Be Careful"/></a>
-        <p>Source Image.</p></th>
+        <p>Source Image.</p></td>
         <!-- 100px by 100px Image -->
-        <th><a href="http://fc09.deviantart.net/fs70/i/2010/343/5/e/be_careful_by_antontang-d2nq7yy.jpg">
+        <td><a href="http://fc09.deviantart.net/fs70/i/2010/343/5/e/be_careful_by_antontang-d2nq7yy.jpg">
                 <img src="http://fc09.deviantart.net/fs70/i/2010/343/5/e/be_careful_by_antontang-d2nq7yy.jpg" alt="Be Careful" width="100px" height="100px"/></a>
-        <p>This image is 100px by 100px</p></th>
+        <p>This image is 100px by 100px</p></td>
     </tr>
     <tr>
         <!-- 100 Wide, auto scaled height.-->
-        <th><a href="http://fc09.deviantart.net/fs70/i/2010/343/5/e/be_careful_by_antontang-d2nq7yy.jpg">
+        <td><a href="http://fc09.deviantart.net/fs70/i/2010/343/5/e/be_careful_by_antontang-d2nq7yy.jpg">
                 <img src="http://fc09.deviantart.net/fs70/i/2010/343/5/e/be_careful_by_antontang-d2nq7yy.jpg" alt="Be Careful" width="100px"/></a>
-        <p>his image is scaled to have a fixed witdth of 100px</p></th>
+        <p>his image is scaled to have a fixed witdth of 100px</p></td>
 
-        <th><a href="http://fc09.deviantart.net/fs70/i/2010/343/5/e/be_careful_by_antontang-d2nq7yy.jpg">
+        <td><a href="http://fc09.deviantart.net/fs70/i/2010/343/5/e/be_careful_by_antontang-d2nq7yy.jpg">
                 <img src="http://fc09.deviantart.net/fs70/i/2010/343/5/e/be_careful_by_antontang-d2nq7yy.jpg" alt="Be Careful" height="100px"/></a>
-        <p>This image is scaled to have a fixed heigh of 100px</p></th>
+        <p>This image is scaled to have a fixed heigh of 100px</p></td>
     </tr>
     <tr>
-        <th><a href="images/loading.gif">
+        <td><a href="images/loading.gif">
                 <img src="images/loading.gif" alt="I'm cruel aren't I?" width="100px" height="100px"/></a>
-            <p>Cruel loading image prank, doesn't work very well here, but can work quite well in other places. Such as signatures on forums or emails.</p> </th>
-        <th><a href="http://google.com">
+            <p>Cruel loading image prank, doesn't work very well here, but can work quite well in other places. Such as signatures on forums or emails.</p> </td>
+        <td><a href="http://google.com">
                 <img src="images/googlelink.png" alt="Google URL link"/></a>
-            <p>This image links to Google. All above images link to their source image. I was bored. This is why programmers can't do art.</p></th>
+            <p>This image links to Google. All above images link to their source image. I was bored. This is why programmers can't do art.</p></td>
     </tr>
 </table>
 
