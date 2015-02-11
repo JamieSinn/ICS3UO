@@ -11,6 +11,7 @@
                  background-color: #34495e;
                  color: #ffffff;
                  font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+                 font-size: medium;
              }
     </style>
 </head>
@@ -28,8 +29,14 @@
    This is a size 2 heading with a <i>#2980b9</i> colour background and a padding of 30px and a font colour of #f39c12
 </h2>
 
-<p style="font-family: Courier; font-size: 2.0em; color: #d35400">
-In this paragraph the font has been set to a size of <i>2.0em,</i> colour of <i>#d35400</i> and <i>Courier</i> font style.
+<!-- Please never make me use comic sans ever again... oh the horror!-->
+<h3 style="background-color: #888888; color: #ffffff; padding: 5px; width: 700px; font-family: Comic Sans MS, cursive, sans-serif">
+    This is a size 3 heading (not a paragraph) with #888888 background colour and Comic Sans MS font that is white (#ffffff) and a padding
+    of 5px and the width is only 700px
+</h3>
+
+<p style="font-family: Courier; font-size: 2.0em; color: #d35400; background-color: #F0F0F0;">
+    In this paragraph the font has been set to a size of <i>2.0em,</i> colour of <i>#d35400</i> and <i>Courier</i> font style.
 </p>
 
 <p style="background-color: #1abc9c; color: #ffffff; padding: 5px;">
@@ -41,13 +48,13 @@ In this paragraph the font has been set to a size of <i>2.0em,</i> colour of <i>
 <table border="0" cellpadding="5" cellspacing="0">
     <tr>
         <td style="background-color: #ffffff; color: #000000">
-
+        #ffffff background and #000000 font colour
         </td>
         <td style="background-color: #000000; color: #ffffff">
-
+        #000000 background and #ffffff font colour
         </td>
         <td style="background-color: #f39c12; color: #333333">
-
+        #f39c12 background and #333333 font colour
         </td>
     </tr>
 </table>
