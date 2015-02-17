@@ -35,13 +35,13 @@
             <td bgcolor="#c0392b" width="150px" valign="top" align="right">
                 <img src="images/bigmac.png"/>
             </td>
-            <td bgcolor="#f1c40f" valign="bottom">
+            <td bgcolor="#f1c40f" valign="bottom" align="center">
                 <img src="images/bigmac.png"/>
             </td>
         </tr>
         <!-- Second Row, One merged column, centered.-->
         <tr>
-            <td colspan="3" bgcolor="#95a5a6">
+            <td colspan="3" bgcolor="#95a5a6" align="center">
                 <img src="images/bigmac.png"/>
             </td>
         </tr>
