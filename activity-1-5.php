@@ -45,7 +45,8 @@
         p.norm {
             position: relative;
             display: inline-block;
-            padding: 5px;
+            padding: 1%;
+            margin: 2%;
             background: rgba(0,0,0,0.7);
             color: #ffffff;
         }
@@ -53,24 +54,26 @@
         /* your button styles */
         a.button1:link, a.button1:visited , a.button1:active {
             position: relative;
-            display: inline-flex;
+            display: inline-block;
             padding: 4%;
-            background-color: #0355fa;
+            background-image: radial-gradient(circle, #fff00a, #ffffff);
             color: #70ffa7;
             font-family: Arial;
             text-decoration: none;
+            border-radius: 0 0.1em 0 0.1em;
+            -moz-border-radius: 0.2em 0.2em 0.2em 0.2em;
+            -webkit-border-radius: 0.3em 0.3em 0.3em 0.3em;
         }
         a.button1:hover {
             -moz-border-radius: 3px 3px 3px 3px;
-            -moz-box-shadow: #333333;
+            -moz-box-shadow: #232323;
             text-decoration: dashed;
+            box-shadow: 5px 5px 5px #232323;
+            -webkit-box-shadow: 5px 5px 5px #232323;
         }
         a.button2:link, a.button2:visited , a.button2:active {
             display: block;
-            padding-bottom: 2%;
-            padding-left: 4%;
-            padding-right: 1%;
-            padding-top: 9%;
+            padding: 5%;
             color: #70ffa7;
             background-color: #222222;
         }

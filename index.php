@@ -18,8 +18,8 @@
             <a href="activity-1-1.php">Activity 1.1</a><br/>
             <a href="activity-1-2.php">Activity 1.2</a><br/>
             <a href="activity-1-3.php">Activity 1.3</a><br/>
-            <a href="activity-1-4.php">Activity 1.4 (Big Mac Table Activity)</a> <br/>
-            <a href="activity-1-5.php">Activity 1.5</a> <br/>
+            <a href="activity-1-4.php">Activity 1.4 (Big Mac Table Activity)</a><br/>
+            <a href="activity-1-5.php">Activity 1.5</a><br/>
             <!-- Apparently 5 + 1 = 7-->
             <a href="activity-1-7.php">Activity 1.7</a><br/>
     </p>
