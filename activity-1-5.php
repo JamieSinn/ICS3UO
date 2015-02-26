@@ -56,6 +56,8 @@
             position: relative;
             display: inline-block;
             padding: 4%;
+            margin: 2%;
+
             background-image: radial-gradient(circle, #fff00a, #ffffff);
             color: #70ffa7;
             font-family: Arial;
