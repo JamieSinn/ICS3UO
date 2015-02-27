@@ -59,7 +59,7 @@
             margin: 2%;
 
             background-image: radial-gradient(circle, #fff00a, #ffffff);
-            color: #70ffa7;
+            color: #232323;
             font-family: Arial;
             text-decoration: none;
             border-radius: 0 0.1em 0 0.1em;
@@ -85,12 +85,14 @@
         }
         a.button3:link, a.button3:visited , a.button3:active {
             color: darkcyan;
-            font-size: small;
+            font-size: 3.1em;
             padding: 3px;
             height: 10px;
+            background-color: #1abc9c;
+
         }
         a.button3:hover {
-            font-size: larger;
+            font-size: 3.1em;
             background-color: #222222;
             color: azure;
         }
