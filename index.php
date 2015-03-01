@@ -22,6 +22,9 @@
             <a href="activity-1-5.php">Activity 1.5</a><br/>
             <!-- Apparently 5 + 1 = 7-->
             <a href="activity-1-7.php">Activity 1.7</a><br/>
+            <a href="activity-1-8.php">Activity 1.8</a><br/>
+            <a href="activity-1-9.php">Activity 1.9</a><br/>
+            <a href="activity-1-9b.php">Activity 1.9b</a><br/>
     </p>
 
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
