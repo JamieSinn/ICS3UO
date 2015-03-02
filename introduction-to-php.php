@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-
+<!-- The CCNA has a massive exam, dubbed the 200-120, and it requires multiple months of practice and study to pass it :P I've got a specific area in my homelab dedicated to this.
+I'll post a picture if you're interested. ~ Jamie-->
 <html lang="en">
 <head>
     <title>Introduction to PHP</title>
