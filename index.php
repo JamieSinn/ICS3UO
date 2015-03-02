@@ -25,6 +25,7 @@
             <a href="activity-1-8.php">Activity 1.8</a><br/>
             <a href="activity-1-9.php">Activity 1.9</a><br/>
             <a href="activity-1-9b.php">Activity 1.9b</a><br/>
+            <a href="introduction-to-php.php">Introduction to PHP</a></br>
     </p>
 
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
