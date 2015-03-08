@@ -30,6 +30,7 @@
         <a href="php-variables-lesson.php">PHP Variable Lesson 1</a><br/>
         <a href="php-variable-lesson-2.php">PHP Variable Lesson 2 - User Input</a><br/>
         <a href="activity-2-2.php">Activity 2.2</a><br/>
+        <a href="activity-2-2b.php">Activity 2.2b</a><br/>
     </p>
 
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
