@@ -52,7 +52,7 @@ if ($_GET['subButton']) {
 
     // display the name to the screen
     echo "<p>Your first name is " . $firstname . ".</p>";
-    echo "<p>Your last name is $password.</p>";
+    echo "<p>Your password is  $password.</p>";
 }
 ?>
 

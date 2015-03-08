@@ -4,6 +4,12 @@
     <title>Activity/Lesson 1.9</title>
     <meta http-equiv="content-type" content="text/html;charset=utf-8" />
     <style type="text/css">
+        h2 {
+            color: #fff;
+        }
+        p {
+           color: #999999;
+        }
         body {
             padding: 0;
             margin: 0;
@@ -12,24 +18,25 @@
             width: 100%;
 
 
-            background-color:#e1ebbd;
+            background-color:#232323;
             background-size: 128px 128px;
         }
         form {
             position: relative;
             padding: 20px;
-            margin-left: auto;
-            margin-right: auto;
-            width: 50%;
+            margin-left: 5%;
+            margin-right: 2%;
+            width: 100%;
             background: rgba(255,255,255,0.7);
         }
         input, select, textarea {
-            font-size: 1.4em;
-            border: 1px solid #999999;
-            padding: 5px;
-            border-radius: 0.5em;
-            outline: none;
-            margin: 5px;
+            font-size: 1.1em;
+            border: 3px dashed #232323;
+            padding: 9px;
+            border-radius: 0.1em;
+            outline: groove;
+            margin: 2px;
+            align-content: center;
         }
 
     </style>
@@ -60,19 +67,19 @@ if ($_GET['buttonSubmit'])
     <hr size="1" />
 
     <!-- radio button input //-->
-    <label>Your Gender</label>
+    <label>Your Gender</label><br/>
     <input type="radio" name="sex" value="male"> Male</input><br />
     <input type="radio" name="sex" value="female"> Female</input>
     <hr size="1" />
 
     <!-- checkbox input //-->
-    <label>What is your dream fruit/flower?</label>
+    <label>What is your dream fruit/flower?</label><br/>
     <input type="checkbox" name="flower1" value="Strawberry"> I have a Strawberry</input><br />
     <input type="checkbox" name="fruit1" value="Pineapple" checked> I have a Pineapple</input>
     <hr size="1" />
 
     <!-- simple drop-down list //-->
-    <label>What is your dream car brand</label>
+    <label>What is your dream car brand</label><br/>
     <select name="car">
         <option value="">- Choose your dream car brand -</option>
         <option value="Bugatti">Bugatti</option>
@@ -85,7 +92,7 @@ if ($_GET['buttonSubmit'])
 
     <!-- hidden input -->
     <input type="hidden" name="hideme" value="42"/>
-    <label>Why should you win the lottery?</label>
+    <label>Why should you win the lottery?</label><br/>
     <!-- textarea input //-->
     <textarea name="info" rows="5" cols="50"></textarea>
     <hr size="1" />
