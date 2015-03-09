@@ -80,7 +80,7 @@ $result3 = $result1 + $result2;
     Z: <input type="number" name="z_t" value="" /><br />
     Table Border: <input type="number" name="tbBorder_t" value="" /><br />
     Table Cell Padding: <input type="number" name="tbCellpad_t" value="" /><br />
-    Table Background Colour: <input type="text" name="tbColour_t" value="" maxlength="6"/><br />
+    Table Background Colour: <input type="color" name="tbColour_t" value="" maxlength="6"/><br />
     <input type="submit" name="sub" value="Submit" /><br/>
 </form>
 

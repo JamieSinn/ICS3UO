@@ -57,7 +57,7 @@ if ($_GET['buttonSubmit'])
 }
 ?>
 
-<form name="form1" action="activity_1-9.php" method="get">
+<form name="form1" action="activity-1-9.php" method="get">
     <!-- username input //-->
     Username: <input type="text" name="username" value="" placeholder="Your username Here" required/>
     <hr size="1" />
