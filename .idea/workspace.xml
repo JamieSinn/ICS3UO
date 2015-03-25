@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77749711-fcfb-4adf-ac74-bae57dfe1863" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/activity-1-9b.php" afterPath="$PROJECT_DIR$/activity-1-9b.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/activity-2-2b.php" afterPath="$PROJECT_DIR$/activity-2-2b.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity-2-3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity-2-3b.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/choose-your-advnture.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conditional-statements-lesson-1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/activity-1-9.php" afterPath="$PROJECT_DIR$/activity-1-9.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ICS3UO.iws" />
@@ -33,41 +37,70 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="activity-2-2.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/activity-2-2.php">
+      <file leaf-file-name="activity-2-3.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/activity-2-3.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="539" max-vertical-offset="2788">
-              <caret line="71" column="19" selection-start-line="67" selection-start-column="12" selection-end-line="71" selection-end-column="19" />
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="918">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="48" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="activity-1-9b.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/activity-1-9b.php">
+      <file leaf-file-name="activity-2-3b.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/activity-2-3b.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5691244" vertical-offset="934" max-vertical-offset="1802">
-              <caret line="84" column="44" selection-start-line="84" selection-start-column="44" selection-end-line="84" selection-end-column="44" />
+            <state vertical-scroll-proportion="-16.346153" vertical-offset="204" max-vertical-offset="2193">
+              <caret line="37" column="25" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+              <folding>
+                <marker date="1427250633754" expanded="true" signature="1383:3828" placeholder="{...}" />
+                <marker date="1427250633754" expanded="true" signature="1405:1575" placeholder="..." />
+                <marker date="1427250633754" expanded="true" signature="1591:1761" placeholder="..." />
+                <marker date="1427250633754" expanded="true" signature="1777:1947" placeholder="..." />
+                <marker date="1427250633754" expanded="true" signature="1963:2202" placeholder="..." />
+                <marker date="1427250633754" expanded="true" signature="2218:2528" placeholder="..." />
+                <marker date="1427250633754" expanded="true" signature="2544:2783" placeholder="..." />
+                <marker date="1427250633754" expanded="true" signature="2799:3058" placeholder="..." />
+                <marker date="1427250633754" expanded="true" signature="3074:3159" placeholder="..." />
+                <marker date="1427250633754" expanded="true" signature="3175:3347" placeholder="..." />
+                <marker date="1427250633754" expanded="true" signature="3363:3533" placeholder="..." />
+                <marker date="1427250633754" expanded="true" signature="3550:3720" placeholder="..." />
+                <marker date="1427250633754" expanded="true" signature="3737:3822" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="choose-your-advnture.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/choose-your-advnture.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-22.923077" vertical-offset="390" max-vertical-offset="1258">
+              <caret line="58" column="50" selection-start-line="58" selection-start-column="50" selection-end-line="58" selection-end-column="50" />
+              <folding>
+                <marker date="1427253469252" expanded="true" signature="653:926" placeholder="..." />
+                <marker date="1427253469252" expanded="true" signature="1024:1327" placeholder="..." />
+                <marker date="1427253469252" expanded="true" signature="1603:1902" placeholder="..." />
+                <marker date="1427253469252" expanded="true" signature="2148:2309" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="conditional-statements-lesson-1.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conditional-statements-lesson-1.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="594" max-vertical-offset="2380">
+              <caret line="66" column="40" selection-start-line="66" selection-start-column="40" selection-end-line="66" selection-end-column="40" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="activity-2-2b.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/activity-2-2b.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-16.115385" vertical-offset="975" max-vertical-offset="2023">
-              <caret line="82" column="47" selection-start-line="82" selection-start-column="47" selection-end-line="82" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="544" max-vertical-offset="731">
-              <caret line="32" column="49" selection-start-line="32" selection-start-column="49" selection-end-line="32" selection-end-column="49" />
+            <state vertical-scroll-proportion="0.7246544" vertical-offset="0" max-vertical-offset="868">
+              <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -76,8 +109,8 @@
       <file leaf-file-name="activity-1-9.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/activity-1-9.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="554" max-vertical-offset="1819">
-              <caret line="74" column="26" selection-start-line="74" selection-start-column="26" selection-end-line="74" selection-end-column="26" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="951" max-vertical-offset="1819">
+              <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -100,13 +133,17 @@
         <option value="$PROJECT_DIR$/activity-1-2.php" />
         <option value="$PROJECT_DIR$/introduction-to-php.php" />
         <option value="$PROJECT_DIR$/activity_2-1.php" />
-        <option value="$PROJECT_DIR$/activity-1-9.php" />
         <option value="$PROJECT_DIR$/php-variables-lesson.php" />
         <option value="$PROJECT_DIR$/php-variable-lesson-2.php" />
         <option value="$PROJECT_DIR$/activity-2-2.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/activity-2-2b.php" />
         <option value="$PROJECT_DIR$/activity-1-9b.php" />
+        <option value="$PROJECT_DIR$/activity-1-9.php" />
+        <option value="$PROJECT_DIR$/conditional-statements-lesson-1.php" />
+        <option value="$PROJECT_DIR$/activity-2-3.php" />
+        <option value="$PROJECT_DIR$/activity-2-3b.php" />
+        <option value="$PROJECT_DIR$/choose-your-advnture.php" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -145,8 +182,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -476,11 +513,15 @@
       <workItem from="1425775850057" duration="5059000" />
       <workItem from="1425780935049" duration="3685000" />
       <workItem from="1425868794991" duration="1090000" />
+      <workItem from="1425871703745" duration="599000" />
+      <workItem from="1425939023562" duration="593000" />
+      <workItem from="1427128488035" duration="7607000" />
+      <workItem from="1427248368987" duration="4978000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21122000" />
+    <option name="totallyTimeSpent" value="34899000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -538,38 +579,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="663">
-          <caret line="24" column="60" selection-start-line="24" selection-start-column="60" selection-end-line="24" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/activity_2-1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/introduction-to-php.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="867" max-vertical-offset="2091">
-          <caret line="79" column="2" selection-start-line="60" selection-start-column="0" selection-end-line="79" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="204">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/basics/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="969" max-vertical-offset="1071">
@@ -614,13 +623,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="204">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
         </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/basics/styles.css">
@@ -653,13 +662,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="204">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
         </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/basics/styles.css">
@@ -684,44 +693,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="204">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basics/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="969" max-vertical-offset="1071">
-          <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/activity-1-1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="2159">
-          <caret line="12" column="74" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/activity-1-2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="833">
-          <caret line="0" column="15" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/basics/styles.css">
@@ -746,13 +724,44 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basics/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="969" max-vertical-offset="1071">
+          <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activity-1-1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="2159">
+          <caret line="12" column="74" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activity-1-2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="833">
+          <caret line="0" column="15" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/basics/styles.css">
@@ -840,26 +849,19 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="204">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
         </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/activity-1-2.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="33" max-vertical-offset="901">
           <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/activity_2-1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.384615" vertical-offset="0" max-vertical-offset="476">
-          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -884,42 +886,98 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/activity_2-1.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="544" max-vertical-offset="731">
-          <caret line="32" column="49" selection-start-line="32" selection-start-column="49" selection-end-line="32" selection-end-column="49" />
+        <state vertical-scroll-proportion="0.43087557" vertical-offset="0" max-vertical-offset="868">
+          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activity-2-2b.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5824561" vertical-offset="1015" max-vertical-offset="2023">
+          <caret line="89" column="45" selection-start-line="89" selection-start-column="45" selection-end-line="89" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activity-1-9b.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.70852536" vertical-offset="898" max-vertical-offset="1802">
+          <caret line="89" column="13" selection-start-line="89" selection-start-column="13" selection-end-line="89" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activity-2-2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.76958525" vertical-offset="539" max-vertical-offset="2788">
+          <caret line="71" column="19" selection-start-line="71" selection-start-column="19" selection-end-line="71" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/activity-1-9.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="554" max-vertical-offset="1819">
-          <caret line="74" column="26" selection-start-line="74" selection-start-column="26" selection-end-line="74" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="951" max-vertical-offset="1819">
+          <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/activity-2-2.php">
+    <entry file="file://$PROJECT_DIR$/conditional-statements-lesson-1.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="539" max-vertical-offset="2788">
-          <caret line="71" column="19" selection-start-line="67" selection-start-column="12" selection-end-line="71" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="594" max-vertical-offset="2380">
+          <caret line="66" column="40" selection-start-line="66" selection-start-column="40" selection-end-line="66" selection-end-column="40" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/activity-2-2b.php">
+    <entry file="file://$PROJECT_DIR$/activity-2-3.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.115385" vertical-offset="975" max-vertical-offset="2023">
-          <caret line="82" column="47" selection-start-line="82" selection-start-column="47" selection-end-line="82" selection-end-column="47" />
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="918">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="48" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/activity-1-9b.php">
+    <entry file="file://$PROJECT_DIR$/activity-2-3b.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5691244" vertical-offset="934" max-vertical-offset="1802">
-          <caret line="84" column="44" selection-start-line="84" selection-start-column="44" selection-end-line="84" selection-end-column="44" />
+        <state vertical-scroll-proportion="-16.346153" vertical-offset="204" max-vertical-offset="2193">
+          <caret line="37" column="25" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+          <folding>
+            <marker date="1427250633754" expanded="true" signature="1383:3828" placeholder="{...}" />
+            <marker date="1427250633754" expanded="true" signature="1405:1575" placeholder="..." />
+            <marker date="1427250633754" expanded="true" signature="1591:1761" placeholder="..." />
+            <marker date="1427250633754" expanded="true" signature="1777:1947" placeholder="..." />
+            <marker date="1427250633754" expanded="true" signature="1963:2202" placeholder="..." />
+            <marker date="1427250633754" expanded="true" signature="2218:2528" placeholder="..." />
+            <marker date="1427250633754" expanded="true" signature="2544:2783" placeholder="..." />
+            <marker date="1427250633754" expanded="true" signature="2799:3058" placeholder="..." />
+            <marker date="1427250633754" expanded="true" signature="3074:3159" placeholder="..." />
+            <marker date="1427250633754" expanded="true" signature="3175:3347" placeholder="..." />
+            <marker date="1427250633754" expanded="true" signature="3363:3533" placeholder="..." />
+            <marker date="1427250633754" expanded="true" signature="3550:3720" placeholder="..." />
+            <marker date="1427250633754" expanded="true" signature="3737:3822" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/choose-your-advnture.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-22.923077" vertical-offset="390" max-vertical-offset="1258">
+          <caret line="58" column="50" selection-start-line="58" selection-start-column="50" selection-end-line="58" selection-end-column="50" />
+          <folding>
+            <marker date="1427253469252" expanded="true" signature="653:926" placeholder="..." />
+            <marker date="1427253469252" expanded="true" signature="1024:1327" placeholder="..." />
+            <marker date="1427253469252" expanded="true" signature="1603:1902" placeholder="..." />
+            <marker date="1427253469252" expanded="true" signature="2148:2309" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7246544" vertical-offset="0" max-vertical-offset="868">
+          <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
           <folding />
         </state>
       </provider>

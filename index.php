@@ -31,6 +31,10 @@
         <a href="php-variable-lesson-2.php">PHP Variable Lesson 2 - User Input</a><br/>
         <a href="activity-2-2.php">Activity 2.2</a><br/>
         <a href="activity-2-2b.php">Activity 2.2b</a><br/>
+        <a href="conditional-statements-lesson-1.php">PHP Conditional Statements</a><br/>
+        <a href="activity-2-3.php">Activity 2.3</a><br/>
+        <a href="activity-2-3b.php">Activity 2.b</a><br/>
+        <a href="choose-your-advnture.php">Activity 2.3c</a><br/>
     </p>
 
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
