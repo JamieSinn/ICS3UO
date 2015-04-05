@@ -35,6 +35,8 @@
         <a href="activity-2-3.php">Activity 2.3</a><br/>
         <a href="activity-2-3b.php">Activity 2.b</a><br/>
         <a href="choose-your-advnture.php">Activity 2.3c</a><br/>
+        <a href="activity-2-4.php">Activity 2.4</a><br/>
+
     </p>
 
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
