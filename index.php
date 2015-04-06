@@ -36,6 +36,8 @@
         <a href="activity-2-3b.php">Activity 2.b</a><br/>
         <a href="choose-your-advnture.php">Activity 2.3c</a><br/>
         <a href="activity-2-4.php">Activity 2.4</a><br/>
+        <a href="crazy-cats.php">Crazy Cats</a><br/>
+        <a href="activity-dice-game.php">Dice Game</a><br/>
 
     </p>
 

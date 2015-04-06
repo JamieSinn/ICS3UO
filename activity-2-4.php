@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <title>Jamie Sinn - ICS3UO</title>
-    <meta name="description" content="Activity 2-3">
+    <meta name="description" content="Activity 2-4">
     <meta name="author" content="Jamie Sinn">
     <link rel="stylesheet" href="styles.css?v=1.0">
 </head>
