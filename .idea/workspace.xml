@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77749711-fcfb-4adf-ac74-bae57dfe1863" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/activity-dice-game.php" afterPath="$PROJECT_DIR$/activity-dice-game.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact-form.php" afterPath="$PROJECT_DIR$/contact-form.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/activity-2-4.php" afterPath="$PROJECT_DIR$/activity-2-4.php" />
     </list>
     <ignored path="ICS3UO.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -60,31 +58,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="crazy-cats.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/crazy-cats.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.692307">
-              <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="introduction-to-php.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/introduction-to-php.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5726872">
-              <caret line="79" column="2" selection-start-line="60" selection-start-column="0" selection-end-line="79" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity-2-4.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="activity-2-4.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/activity-2-4.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.769231">
-              <caret line="46" column="56" selection-start-line="46" selection-start-column="56" selection-end-line="46" selection-end-column="56" />
+            <state vertical-scroll-proportion="0.719163">
+              <caret line="71" column="20" selection-start-line="71" selection-start-column="20" selection-end-line="71" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -122,12 +100,12 @@
         <option value="$PROJECT_DIR$/activity-2-3.php" />
         <option value="$PROJECT_DIR$/activity-2-3b.php" />
         <option value="$PROJECT_DIR$/choose-your-advnture.php" />
-        <option value="$PROJECT_DIR$/activity-2-4.php" />
         <option value="$PROJECT_DIR$/crazy-cats.php" />
         <option value="$PROJECT_DIR$/playing-with-sessions.php" />
         <option value="$PROJECT_DIR$/activity-dice-game.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/contact-form.php" />
+        <option value="$PROJECT_DIR$/activity-2-4.php" />
       </list>
     </option>
   </component>
@@ -527,12 +505,12 @@
       <workItem from="1428195908934" duration="599000" />
       <workItem from="1428199274897" duration="144000" />
       <workItem from="1428199448450" duration="6029000" />
-      <workItem from="1428335240927" duration="3312000" />
+      <workItem from="1428335240927" duration="3742000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44983000" />
+    <option name="totallyTimeSpent" value="45413000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
@@ -924,14 +902,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/activity-2-4.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.769231">
-          <caret line="46" column="56" selection-start-line="46" selection-start-column="56" selection-end-line="46" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-26.807692">
@@ -948,6 +918,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/introduction-to-php.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45704845">
+          <caret line="73" column="51" selection-start-line="73" selection-start-column="51" selection-end-line="73" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crazy-cats.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.79405284">
+          <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/contact-form.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-15.692307">
@@ -956,18 +942,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/crazy-cats.php">
+    <entry file="file://$PROJECT_DIR$/activity-2-4.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.692307">
-          <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/introduction-to-php.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5726872">
-          <caret line="79" column="2" selection-start-line="60" selection-start-column="0" selection-end-line="79" selection-end-column="2" />
+        <state vertical-scroll-proportion="0.719163">
+          <caret line="71" column="20" selection-start-line="71" selection-start-column="20" selection-end-line="71" selection-end-column="20" />
           <folding />
         </state>
       </provider>

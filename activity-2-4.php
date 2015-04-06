@@ -24,7 +24,7 @@
         <option value="8">8</option>
         <option value="9">9</option>
         <option value="9">10</option>
-    </select>
+    </select><br/>
     <label>Number 2</label>
     <select name="num2">
         <option value="0">0</option>
@@ -38,13 +38,13 @@
         <option value="8">8</option>
         <option value="9">9</option>
         <option value="9">10</option>
-    </select>
-    <label>Operation</label>
+    </select><br/><hr/>
+    <label>Operation</label><br/>
     <input type="radio" name="operation" value="mult">Multiply<br>
     <input type="radio" name="operation" value="divi">Divide<br>
     <input type="radio" name="operation" value="add">Addition<br>
     <input type="radio" name="operation" value="subt">Subtraction<br>
-    <input type="submit" name="subButton" value="Send"/>
+    <input type="submit" name="subButton" value="Send"/><br/><hr/>
 </form>
 <?php
 if($_POST['subButton'])
