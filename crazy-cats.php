@@ -3,6 +3,7 @@
 <html>
 <head>
     <title>Crazy Cats! - Lesson Evaluation</title>
+    <link rel="stylesheet" href="styles.css?v=1.0">
     <style>
         body {
             font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
