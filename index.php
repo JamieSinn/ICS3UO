@@ -38,6 +38,7 @@
         <a href="activity-2-4.php">Activity 2.4</a><br/>
         <a href="crazy-cats.php">Crazy Cats</a><br/>
         <a href="activity-dice-game.php">Dice Game</a><br/>
+        <a href="contact-form.php">Contact Form</a><br/>
 
     </p>
 
