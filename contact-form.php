@@ -5,8 +5,13 @@
     <title>Jamie Sinn - ICS3UO</title>
     <meta name="description" content="Activity 2-4">
     <meta name="author" content="Jamie Sinn">
+    <link rel="stylesheet" href="styles.css?v=1.0">
     <style>
-        input, textarea, select, button {
+
+        label{
+            color: #ffffff;
+        }
+        input, textarea, select, button{
             width : 150px;
             margin: 0;
 
@@ -26,17 +31,17 @@
     </style>
 </head>
 <body>
-<h1>Activity 2-4</h1>
-<p>Calculator</p>
+<h1>Contact Form</h1>
+<p>Activity 2.4</p>
 <form name="form1" action="contact-form.php" method="post">
     <label>Full Name</label>
-    <input type="text" name="name" value="" placeholder="" required/>
-    <labal>Your Email</labal>
-    <input type="email" name="email" value="" placeholder="" required/>
+    <input type="text" name="name" value="" placeholder="" required/><br/><hr/>
+    <label>Your Email</label>
+    <input type="email" name="email" value="" placeholder="" required/><br/><hr/>
     <label>Subject</label>
-    <input type="text" name="subject" value="" placeholder="" required/>
+    <input type="text" name="subject" value="" placeholder="" required/><br/><hr/>
     <label>Message</label>
-    <textarea name="message" rows="3" cols="30"></textarea>
+    <textarea name="message" rows="3" cols="30"></textarea><br/><hr/>
     <input type="submit" name="subButton" value="Send"/>
 </form>
 <?php
