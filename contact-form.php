@@ -28,7 +28,7 @@
 <body>
 <h1>Activity 2-4</h1>
 <p>Calculator</p>
-<form name="form1" action="activity-2-4.php" method="post">
+<form name="form1" action="contact-form.php" method="post">
     <label>Full Name</label>
     <input type="text" name="name" value="" placeholder="" required/>
     <labal>Your Email</labal>

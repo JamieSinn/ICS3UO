@@ -12,7 +12,7 @@
 <h1>Dice Game!</h1>
 <h3>Demonstrates rolling a die</h3>
 
-<form name="form1" action="crazy-cats.php" method="post">
+<form name="form1" action="activity-dice-game.php" method="post">
     <label>Guess the roll</label>
     <select name="guess">
         <option value="1">1</option>

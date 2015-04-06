@@ -39,6 +39,7 @@
         <a href="crazy-cats.php">Crazy Cats</a><br/>
         <a href="activity-dice-game.php">Dice Game</a><br/>
         <a href="contact-form.php">Contact Form</a><br/>
+        <a href="playing-with-sessions.php">Sessions</a><br/>
 
     </p>
 
