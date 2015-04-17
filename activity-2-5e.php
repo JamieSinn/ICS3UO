@@ -48,7 +48,7 @@ else
         echo "<tr><td>" . $degreeC . "</td><td>" . $degreeK . "</td><td>" .
             $degreeF . "</td></tr>";
         $degreeC--;
-    } while ($degreeC > $end);
+    } while ($degreeC >= $end);
     echo "</table>";
 }
 ?>

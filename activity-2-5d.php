@@ -26,7 +26,7 @@ do
         $degreeF . "</td></tr>";
     $degreeC--;
 }
-while($degreeC > 0);
+while($degreeC >= 0);
 echo "</table>";
 ?>
 </body>
