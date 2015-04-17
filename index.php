@@ -40,6 +40,13 @@
         <a href="activity-dice-game.php">Dice Game</a><br/>
         <a href="contact-form.php">Contact Form</a><br/>
         <a href="playing-with-sessions.php">Sessions</a><br/>
+        <a href="activity-2-5a.php">Activity 2.5a</a><br/>
+        <a href="activity-2-5b.php">Activity 2.5b</a><br/>
+        <a href="activity-2-5c.php">Activity 2.5c</a><br/>
+        <a href="activity-2-5d.php">Activity 2.5d</a><br/>
+        <a href="activity-2-5e.php">Activity 2.5e</a><br/>
+
+
 
     </p>
 
