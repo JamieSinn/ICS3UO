@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77749711-fcfb-4adf-ac74-bae57dfe1863" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/activity-2-5b.php" afterPath="$PROJECT_DIR$/activity-2-5b.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/activity-2-5d.php" afterPath="$PROJECT_DIR$/activity-2-5d.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/activity-2-5e.php" afterPath="$PROJECT_DIR$/activity-2-5e.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ICS3UO.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -50,13 +49,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="activity-2-5e.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="activity-2-5e.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/activity-2-5e.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.35790884" vertical-offset="75" max-vertical-offset="1080">
-              <caret line="19" column="61" selection-start-line="19" selection-start-column="61" selection-end-line="19" selection-end-column="61" />
+            <state vertical-scroll-proportion="-18.296297" vertical-offset="334" max-vertical-offset="1116">
+              <caret line="46" column="39" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
               <folding>
-                <marker date="1429278961945" expanded="true" signature="1143:1153" placeholder="..." />
+                <marker date="1429279066843" expanded="true" signature="1143:1153" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activity-2-5d.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/activity-2-5d.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.386059" vertical-offset="0" max-vertical-offset="746">
+              <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+              <folding>
+                <marker date="1429279085875" expanded="true" signature="283:293" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -114,12 +125,12 @@
         <option value="$PROJECT_DIR$/activity-2-4.php" />
         <option value="$PROJECT_DIR$/contact-form.php" />
         <option value="$PROJECT_DIR$/crazy-cats.php" />
-        <option value="$PROJECT_DIR$/activity-2-5d.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/activity-2-5a.php" />
         <option value="$PROJECT_DIR$/activity-2-5c.php" />
         <option value="$PROJECT_DIR$/activity-2-5b.php" />
         <option value="$PROJECT_DIR$/activity-2-5e.php" />
+        <option value="$PROJECT_DIR$/activity-2-5d.php" />
       </list>
     </option>
   </component>
@@ -516,12 +527,12 @@
       <workItem from="1428199274897" duration="144000" />
       <workItem from="1428199448450" duration="6029000" />
       <workItem from="1428335240927" duration="4207000" />
-      <workItem from="1429273488926" duration="5180000" />
+      <workItem from="1429273488926" duration="5324000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51058000" />
+    <option name="totallyTimeSpent" value="51202000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1535" height="904" extended-state="6" />
@@ -929,14 +940,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/activity-2-5d.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.0" vertical-offset="0" max-vertical-offset="684">
-          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/activity-2-5b.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.0" vertical-offset="0" max-vertical-offset="486">
@@ -947,10 +950,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/activity-2-5e.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35790884" vertical-offset="75" max-vertical-offset="1080">
-          <caret line="19" column="61" selection-start-line="19" selection-start-column="61" selection-end-line="19" selection-end-column="61" />
+        <state vertical-scroll-proportion="-18.296297" vertical-offset="334" max-vertical-offset="1116">
+          <caret line="46" column="39" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
           <folding>
-            <marker date="1429278961945" expanded="true" signature="1143:1153" placeholder="..." />
+            <marker date="1429279066843" expanded="true" signature="1143:1153" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activity-2-5d.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.386059" vertical-offset="0" max-vertical-offset="746">
+          <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+          <folding>
+            <marker date="1429279085875" expanded="true" signature="283:293" placeholder="..." />
           </folding>
         </state>
       </provider>

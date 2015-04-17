@@ -13,14 +13,15 @@ session_start();
 <h1>Activity 2.5d</h1>
 <p>Do While loops</p>
 <?php
-$degreeC = 100;
-$degreeK = $degreeC + 273;
-$degreeF = 1.8*$degreeC + 32;
 
+$degreeC = 100;
 echo "<table style=\"width:100%\">" . "<tr><td><b>Degrees Celsius</b></td>" .
     "<td><b>Degrees Kelvin</b></td>" . "<td><b>Degrees Fahrenheit</b></td>";
 do
 {
+
+    $degreeK = $degreeC + 273;
+    $degreeF = 1.8*$degreeC + 32;
     echo "<tr><td>" . $degreeC . "</td><td>" . $degreeK . "</td><td>" .
         $degreeF . "</td></tr>";
     $degreeC--;

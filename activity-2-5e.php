@@ -25,9 +25,9 @@ if($_POST['subButton'])
     $degreeC = $_POST['degreeCStart'];
     $end = $_POST['degreeCEnd'];
 }
-if($end < $degreeC)
+if($end > $degreeC)
 {
-    echo "ERROR: End Value is smaller than starting value";
+    echo "ERROR: End Value is greater than starting value";
 }
 else if($degreeC == "" OR $end == "")
 {
@@ -43,6 +43,8 @@ else
     echo "<table style=\"width:100%\">" . "<tr><td><b>Degrees Celsius</b></td>" .
         "<td><b>Degrees Kelvin</b></td>" . "<td><b>Degrees Fahrenheit</b></td>";
     do {
+        $degreeK = $degreeC + 273;
+        $degreeF = 1.8 * $degreeC + 32;
         echo "<tr><td>" . $degreeC . "</td><td>" . $degreeK . "</td><td>" .
             $degreeF . "</td></tr>";
         $degreeC--;
