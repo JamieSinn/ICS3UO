@@ -18,7 +18,7 @@ while($count <= 10)
         $special = " - yay, this is number three!";
     else if($count == 7)
         $special = " - lucky number seven!";
-    echo $count .  $special;
+    echo "<p>" . $count .  $special . "</p></br>";
     $count++;
 }
 ?>
