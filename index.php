@@ -40,10 +40,16 @@
         <a href="activity-dice-game.php">Dice Game</a><br/>
         <a href="contact-form.php">Contact Form</a><br/>
         <a href="playing-with-sessions.php">Sessions</a><br/>
+        <a href="activity-2-5a.php">Activity 2.5a</a><br/>
+        <a href="activity-2-5b.php">Activity 2.5b</a><br/>
+        <a href="activity-2-5c.php">Activity 2.5c</a><br/>
+        <a href="activity-2-5d.php">Activity 2.5d</a><br/>
+        <a href="activity-2-5e.php">Activity 2.5e</a><br/>
         <a href="example-2-6a.php">Example 2.6a</a><br/>
         <a href="activity-2-6b-ice-cream-cone.php">Ice Cream Cone - 2.6b</a><br/>
         <a href="activity-2-6c-terminal-velocity.php">Terminal Velocity - 2.6c</a><br/>
         <a href="activity-2-6d-bmi.php">BMI - 2.6d</a><br/>
+
     </p>
 
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>

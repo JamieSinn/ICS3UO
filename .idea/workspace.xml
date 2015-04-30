@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77749711-fcfb-4adf-ac74-bae57dfe1863" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity-2-6b-ice-cream-cone.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity-2-6c-terminal-velocity.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity-2-6d-bmi.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity_2-6a.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example-2-6a.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity-2-5a.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity-2-5b.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity-2-5c.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity-2-5d.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity-2-5e.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -34,11 +34,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.769231">
-              <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+            <state vertical-scroll-proportion="0.6670507">
+              <caret line="41" column="61" selection-start-line="41" selection-start-column="61" selection-end-line="41" selection-end-column="61" />
               <folding />
             </state>
           </provider>
@@ -76,11 +76,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="activity-2-6b-ice-cream-cone.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="activity-2-6b-ice-cream-cone.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/activity-2-6b-ice-cream-cone.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6670507">
-              <caret line="39" column="128" selection-start-line="39" selection-start-column="128" selection-end-line="39" selection-end-column="128" />
+            <state vertical-scroll-proportion="-20.307692">
+              <caret line="36" column="41" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -177,8 +177,8 @@
         <option value="$PROJECT_DIR$/activity_2-6a.php" />
         <option value="$PROJECT_DIR$/activity-2-6c-terminal-velocity.php" />
         <option value="$PROJECT_DIR$/activity-2-6d-bmi.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/activity-2-6b-ice-cream-cone.php" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -585,12 +585,12 @@
       <workItem from="1429046544574" duration="164000" />
       <workItem from="1429131259823" duration="643000" />
       <workItem from="1430423888337" duration="2804000" />
-      <workItem from="1430427097088" duration="1997000" />
+      <workItem from="1430427097088" duration="2053000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53380000" />
+    <option name="totallyTimeSpent" value="53436000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1016,18 +1016,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/activity-2-6b-ice-cream-cone.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.769231">
-          <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+        <state vertical-scroll-proportion="-20.307692">
+          <caret line="36" column="41" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/activity-2-6b-ice-cream-cone.php">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6670507">
-          <caret line="39" column="128" selection-start-line="39" selection-start-column="128" selection-end-line="39" selection-end-column="128" />
+          <caret line="41" column="61" selection-start-line="41" selection-start-column="61" selection-end-line="41" selection-end-column="61" />
           <folding />
         </state>
       </provider>
