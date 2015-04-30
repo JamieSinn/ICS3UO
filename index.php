@@ -10,7 +10,7 @@
 <body>
     <!-- main content -->
     <h1>Jamie Sinn - ICS3UO</h1>
-
+    <h2>Make sure to check out <a href="../">jamiesinn.ca</a></h2>
     <h2>Activities</h2>
 
     <p class="parastyle">
