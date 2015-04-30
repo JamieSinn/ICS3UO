@@ -21,8 +21,9 @@ function calVolumeCylinder($radius,$height) {
 }
 
 displayText();
-displayCourse("Computers");
-displayCourse("Science");
-echo "Volume of cylinder (r=4, h=20): " . calVolumeCylinder(4,20);
+displayCourse("Computer Science");
+displayCourse("Tech Design");
+displayCourse("CCNA");
+echo "Volume of cylinder (r=8, h=2): " . calVolumeCylinder(8,2);
 
 ?>

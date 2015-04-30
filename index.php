@@ -46,6 +46,7 @@
         <a href="activity-2-5d.php">Activity 2.5d</a><br/>
         <a href="activity-2-5e.php">Activity 2.5e</a><br/>
         <a href="example-2-6a.php">Example 2.6a</a><br/>
+        <a href="activity_2-6a.php">Activity 2.6a</a><br/>
         <a href="activity-2-6b-ice-cream-cone.php">Ice Cream Cone - 2.6b</a><br/>
         <a href="activity-2-6c-terminal-velocity.php">Terminal Velocity - 2.6c</a><br/>
         <a href="activity-2-6d-bmi.php">BMI - 2.6d</a><br/>

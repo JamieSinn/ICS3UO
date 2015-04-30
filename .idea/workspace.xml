@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77749711-fcfb-4adf-ac74-bae57dfe1863" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity-2-5a.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity-2-5b.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity-2-5c.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity-2-5d.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/activity-2-5e.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example-2-6a.php" afterPath="$PROJECT_DIR$/example-2-6a.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -37,40 +33,8 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6670507">
-              <caret line="41" column="61" selection-start-line="41" selection-start-column="61" selection-end-line="41" selection-end-column="61" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="crazy-cats.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/crazy-cats.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-18.307692">
-              <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="example-2-6a.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/example-2-6a.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="27" column="2" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
-              <folding>
-                <element signature="e#6#93#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity_2-6a.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/activity_2-6a.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="52" column="2" selection-start-line="52" selection-start-column="2" selection-end-line="52" selection-end-column="2" />
+            <state vertical-scroll-proportion="0.813364">
+              <caret line="48" column="58" selection-start-line="48" selection-start-column="58" selection-end-line="48" selection-end-column="58" />
               <folding />
             </state>
           </provider>
@@ -79,7 +43,7 @@
       <file leaf-file-name="activity-2-6b-ice-cream-cone.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/activity-2-6b-ice-cream-cone.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-20.307692">
+            <state vertical-scroll-proportion="-20.923077">
               <caret line="36" column="41" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="41" />
               <folding />
             </state>
@@ -89,9 +53,21 @@
       <file leaf-file-name="activity-2-6c-terminal-velocity.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/activity-2-6c-terminal-velocity.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.153846">
+            <state vertical-scroll-proportion="-11.5">
               <caret line="21" column="62" selection-start-line="21" selection-start-column="62" selection-end-line="21" selection-end-column="62" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="example-2-6a.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/example-2-6a.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.423077">
+              <caret line="19" column="64" selection-start-line="19" selection-start-column="64" selection-end-line="19" selection-end-column="64" />
+              <folding>
+                <element signature="e#6#93#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -101,36 +77,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-21.576923">
               <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="playing-with-sessions.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/playing-with-sessions.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="45" column="12" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contact-form.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contact-form.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="51" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity-2-4.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/activity-2-4.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="77" column="1" selection-start-line="77" selection-start-column="1" selection-end-line="77" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -173,11 +119,11 @@
         <option value="$PROJECT_DIR$/activity-2-4.php" />
         <option value="$PROJECT_DIR$/contact-form.php" />
         <option value="$PROJECT_DIR$/crazy-cats.php" />
-        <option value="$PROJECT_DIR$/example-2-6a.php" />
         <option value="$PROJECT_DIR$/activity_2-6a.php" />
         <option value="$PROJECT_DIR$/activity-2-6c-terminal-velocity.php" />
         <option value="$PROJECT_DIR$/activity-2-6d-bmi.php" />
         <option value="$PROJECT_DIR$/activity-2-6b-ice-cream-cone.php" />
+        <option value="$PROJECT_DIR$/example-2-6a.php" />
         <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
@@ -585,12 +531,12 @@
       <workItem from="1429046544574" duration="164000" />
       <workItem from="1429131259823" duration="643000" />
       <workItem from="1430423888337" duration="2804000" />
-      <workItem from="1430427097088" duration="2053000" />
+      <workItem from="1430427097088" duration="2552000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53436000" />
+    <option name="totallyTimeSpent" value="53935000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -945,7 +891,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/playing-with-sessions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.6082949">
           <caret line="45" column="12" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
           <folding />
         </state>
@@ -960,7 +906,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/activity-2-4.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.82373273">
           <caret line="77" column="1" selection-start-line="77" selection-start-column="1" selection-end-line="77" selection-end-column="1" />
           <folding />
         </state>
@@ -974,35 +920,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example-2-6a.php">
+    <entry file="file://$PROJECT_DIR$/crazy-cats.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="2" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
-          <folding>
-            <element signature="e#6#93#0#PHP" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.5483871">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/activity_2-6a.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.8824885">
           <caret line="52" column="2" selection-start-line="52" selection-start-column="2" selection-end-line="52" selection-end-column="2" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/crazy-cats.php">
+    <entry file="file://$PROJECT_DIR$/activity-2-6b-ice-cream-cone.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-18.307692">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        <state vertical-scroll-proportion="-20.923077">
+          <caret line="36" column="41" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/activity-2-6c-terminal-velocity.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.153846">
+        <state vertical-scroll-proportion="-11.5">
           <caret line="21" column="62" selection-start-line="21" selection-start-column="62" selection-end-line="21" selection-end-column="62" />
           <folding />
         </state>
@@ -1016,18 +960,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/activity-2-6b-ice-cream-cone.php">
+    <entry file="file://$PROJECT_DIR$/example-2-6a.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-20.307692">
-          <caret line="36" column="41" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="41" />
-          <folding />
+        <state vertical-scroll-proportion="-12.423077">
+          <caret line="19" column="64" selection-start-line="19" selection-start-column="64" selection-end-line="19" selection-end-column="64" />
+          <folding>
+            <element signature="e#6#93#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6670507">
-          <caret line="41" column="61" selection-start-line="41" selection-start-column="61" selection-end-line="41" selection-end-column="61" />
+        <state vertical-scroll-proportion="0.813364">
+          <caret line="48" column="58" selection-start-line="48" selection-start-column="58" selection-end-line="48" selection-end-column="58" />
           <folding />
         </state>
       </provider>
