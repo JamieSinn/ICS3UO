@@ -17,10 +17,7 @@ function addTableRow($left, $right)
 
 function getImage($superhero)
 {
-    if(is_readable($superhero .".jpg"))
-        return "<img src=\"images/" . $superhero . ".jpg\" height=300 width=150>";
-    else
-        return "<img src=\"images/" . $superhero . ".png\"  height=300 width=150>";
+    return "<img src=\"images/" . $superhero . ".jpg\"  height=300 width=150>";
 }
 
 function selectRandom($num)
