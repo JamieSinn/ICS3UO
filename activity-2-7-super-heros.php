@@ -18,8 +18,9 @@ function addTableRow($left, $right)
 function getImage($superhero)
 {
     if(is_readable($superhero .".jpg"))
-        return "<img src=\"images/" . $superhero . ".jpg\">";
-    return "<img src=\"images/" . $superhero . ".png\">";
+        return "<img src=\"images/" . $superhero . ".jpg\" height=300 width=150>";
+    else
+        return "<img src=\"images/" . $superhero . ".png\"  height=300 width=150>";
 }
 
 function selectRandom($num)
@@ -39,7 +40,7 @@ function selectRandom($num)
 <body>
 <h1>Superhero Battle</h1>
 
-<table>
+<table border="3" style="width:100%;">
     <tr><td><b>Team Even</b></td><td><b>Team Odd</b></td></tr>
     <?php
     for($i = 0; $i < count($heroes); $i+=2)

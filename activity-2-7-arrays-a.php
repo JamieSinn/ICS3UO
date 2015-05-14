@@ -43,7 +43,7 @@ $train[7] = "Coal";
         {
             for($i = 0; $i < 8; $i++)
             {
-                echo "<h2>"."Your inspection found " . $train[$car] . " in it. </h2>";
+                echo "<h2>"."Your inspection found " . $train[$i] . " in it. </h2>";
                 return;
             }
         }
