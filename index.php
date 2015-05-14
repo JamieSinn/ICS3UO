@@ -50,7 +50,12 @@
         <a href="activity-2-6b-ice-cream-cone.php">Ice Cream Cone - 2.6b</a><br/>
         <a href="activity-2-6c-terminal-velocity.php">Terminal Velocity - 2.6c</a><br/>
         <a href="activity-2-6d-bmi.php">BMI - 2.6d</a><br/>
-
+        <a href="activity-2-7-arrays-a.php">Arrays A</a><br/>
+        <a href="activity-2-7-arrays-b.php">Arrays B</a><br/>
+        <a href="activity-2-7-super-heros.php">Arrays - Super Hero</a><br/>
+        <a href="associative-arrays-practice.php">Arrays Example - Associative</a><br/>
+        <a href="numeric-arrays-practice.php">Arrays Example - Numeric</a><br/>
+        <a href="practice-2-7-arrays-c.php">Arrays Practice</a><br/>
     </p>
 
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
