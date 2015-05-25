@@ -56,6 +56,7 @@
         <a href="associative-arrays-practice.php">Arrays Example - Associative</a><br/>
         <a href="numeric-arrays-practice.php">Arrays Example - Numeric</a><br/>
         <a href="practice-2-7-arrays-c.php">Arrays Practice</a><br/>
+        <a href="trends-in-computer-science.php">Trends in CS</a><br/>
     </p>
 
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
