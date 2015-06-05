@@ -58,7 +58,9 @@
         <a href="practice-2-7-arrays-c.php">Arrays Practice</a><br/>
         <a href="trends-in-computer-science.php">Trends in CS</a><br/>
         <a href="careers-in-computer-science.php">Careers in CS</a><br/>
+        <a href="create-table-using-php-1.php">Create Table with MySQL via PHP</a><br/>
     </p>
+
 
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 </body>
