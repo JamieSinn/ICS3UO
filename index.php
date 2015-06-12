@@ -59,6 +59,10 @@
         <a href="trends-in-computer-science.php">Trends in CS</a><br/>
         <a href="careers-in-computer-science.php">Careers in CS</a><br/>
         <a href="create-table-using-php-1.php">Create Table with MySQL via PHP</a><br/>
+        <a href="perftask-gas-mileage.php">Performance Task: Gas Mileage</a><br/>
+        <a href="perftask-square-vs-squared.php">Performance Task: Sqauare vs Squared</a><br/>
+        <a href="perftask-rock-paper-scissors.php">Perfomance Task: Rock Paper Scissors</a><br/>
+        <a href="doppler-effect-calculator.php">Performance Task Extra: Doppler Effect Calculator</a>
     </p>
 
 

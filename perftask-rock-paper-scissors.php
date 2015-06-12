@@ -120,11 +120,13 @@ function getGameWinner()
 <?php
 if($_POST['submit'])
 {
-    echo "<h3>Result: " . getRoundWinner(getPlayerPlay(), getComputerPlay()) . "</h3>";
-    if(getGameWinner() != 0)
-    {
-        echo "<h2>Game Result:" . getGameWinner() . "</h2>";
-    }
+    for($i = 1; $i <= getBestOf(); $i++)
+        echo "<h3>Result: " . getRoundWinner(getPlayerPlay(), getComputerPlay()) . "</h3>";
+    if($wins > getBestOf()/2)
+        echo "<h3>You beat the computer!</h3>";
+    else
+        echo "<h3>You sadly lost to the computer, try again!</h3>";
+
 }
 
 
