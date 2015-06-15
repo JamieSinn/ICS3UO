@@ -3,7 +3,7 @@ function getMissingVar()
 {
     if ($_POST['submit'])
     {
-        $missing[] = null;
+        $missing[] = array();
         $s = $_POST['s'];
         $v = $_POST['v'];
         $f1 = $_POST['f1'];
@@ -20,7 +20,7 @@ function getMissingVar()
         if ($f2 == "")
             array_push($missing, "f2");
 
-        if (count($missing) > 1)
+        if (count($missing) >= 2)
         {
             return "Error";
         } else
@@ -127,6 +127,7 @@ function solve()
     <input type="radio" name="dir" value="away" required/>Away from you<br />
     <input type="submit" value="Calculate" name="submit"/><br/>
 </form>
+<h4>Note: This has an iffy chance of success. Due to restrictions on variables. See the source - <a href="https://github.com/JamieSinn/ICS3UO/blob/master/doppler-effect-calculator.php">here</a> to see the source of it</h4>
 <h3>Perceived Frequency:</h3>
 <h4>
 <?php

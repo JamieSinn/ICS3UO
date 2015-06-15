@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77749711-fcfb-4adf-ac74-bae57dfe1863" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doppler-effect-calculator.php" afterPath="$PROJECT_DIR$/doppler-effect-calculator.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ICS3UO.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,11 +31,11 @@
       <file leaf-file-name="doppler-effect-calculator.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/doppler-effect-calculator.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.61513156">
-              <caret line="84" column="41" selection-start-line="84" selection-start-column="41" selection-end-line="84" selection-end-column="41" />
+            <state vertical-scroll-proportion="0.72039473">
+              <caret line="129" column="217" selection-start-line="129" selection-start-column="217" selection-end-line="129" selection-end-column="217" />
               <folding>
-                <marker date="1434339814008" expanded="true" signature="2356:2375" placeholder="..." />
-                <marker date="1434339814008" expanded="true" signature="2603:2759" placeholder="..." />
+                <marker date="1434340810194" expanded="true" signature="2360:2379" placeholder="..." />
+                <marker date="1434340810194" expanded="true" signature="2607:2763" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -505,12 +503,12 @@
       <workItem from="1433896262281" duration="20000" />
       <workItem from="1434062446076" duration="6862000" />
       <workItem from="1434138983846" duration="48000" />
-      <workItem from="1434339598851" duration="226000" />
+      <workItem from="1434339598851" duration="1212000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87669000" />
+    <option name="totallyTimeSpent" value="88655000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
@@ -952,11 +950,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/doppler-effect-calculator.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.61513156">
-          <caret line="84" column="41" selection-start-line="84" selection-start-column="41" selection-end-line="84" selection-end-column="41" />
+        <state vertical-scroll-proportion="0.72039473">
+          <caret line="129" column="217" selection-start-line="129" selection-start-column="217" selection-end-line="129" selection-end-column="217" />
           <folding>
-            <marker date="1434339814008" expanded="true" signature="2356:2375" placeholder="..." />
-            <marker date="1434339814008" expanded="true" signature="2603:2759" placeholder="..." />
+            <marker date="1434340810194" expanded="true" signature="2360:2379" placeholder="..." />
+            <marker date="1434340810194" expanded="true" signature="2607:2763" placeholder="..." />
           </folding>
         </state>
       </provider>
