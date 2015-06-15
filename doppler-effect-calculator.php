@@ -27,19 +27,6 @@ function getMissingVar()
             return $missing[0];
     }
 }
-function getVars()
-{
-    $vars[] = null;
-    if($_POST['submit'])
-    {
-        array_push($vars,$_POST['s']);
-        array_push($vars,$_POST['t']);
-        array_push($vars,$_POST['v']);
-        array_push($vars,$_POST['f1']);
-        array_push($vars,$_POST['f2']);
-        return $vars;
-    }
-}
 function solveF1($s, $v, $f2, $dir)
 {
     if($s == 0 || $s+ $v == 0)
@@ -78,10 +65,6 @@ function solveV($s, $f1, $f2, $dir)
     else
         return $s -(($f1/$f2) *$s);
 }
-function solveT($s)
-{
-    return (5 * ($s - 332) / 3);
-}
 function solve()
 {
     if(!$_POST['submit'])
@@ -103,7 +86,7 @@ function solve()
     if(getMissingVar() == "v")
         $v = solveV($s, $f1, $f2, $dir);
     if(getMissingVar() == "f2")
-        return solveF2($s, $v, $f1, $dir);
+        $f2 = solveF2($s, $v, $f1, $dir);
 
     if($s == "Error" ||
         $v == "Error" ||
@@ -132,9 +115,7 @@ function solve()
 
 <form name="form" action="doppler-effect-calculator.php" method="post">
     <b>Speed of sound in m/s</b><br />
-    <input type="text" name="s" value=""/>
-    <b> OR Input the Air temperature in degrees Celsius </b>
-    <input type="text" name="t" value=""/><br/>
+    <input type="text" name="s" value=""/><br/>
     <b>Speed of object in m/s</b><br />
     <input type="text" name="v" value=""><br/>
     <b>Emitting Frequency in Hz</b><br />
@@ -153,17 +134,5 @@ function solve()
     echo solve();
 ?>
 </h4>
-<h3>Air Temperature</h3>
-<h4>
-<?php
-    if($_POST['submit'])
-        if($_POST['s'])
-            echo solveT(getVars()[0]);
-        else
-            echo getVars()[1];
-
-?>
-</h4>
-
 </body>
 </html>
