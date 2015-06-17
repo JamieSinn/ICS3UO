@@ -29,12 +29,29 @@ function calcMass($a, $f)
 <p>Newton’s second law is a mathematical relationship between the force, mass and acceleration of an object.  In this activity you will calculate the force required to accelerate a mass.</p>
 <form action="exam-q8.php" name="form" method="post">
     <label>Mass (kg)</label><br/>
-    <input type="text" name="mass" value=""><br/>
-    <label>Acceleration</label><br/>
-    <input type="text" name="acc" value=""><br>
-    <label>Force</label><br/>
-    <input type="text" name="for" value=""><br>
+    <input type="text" name="mass" value="" required><br/>
+    <label>Acceleration (m/s/s)</label><br/>
+    <input type="text" name="acc" value="" required><br>
+
     <input type="submit" value="Submit" name="sub"><br/>
+</form>
+
+<form action="exam-q8.php" name="form2" method="post">
+    <label>Force (N)</label><br/>
+    <input type="text" name="for2" value="" required><br/>
+    <label>Acceleration (m/s/s)</label><br/>
+    <input type="text" name="acc2" value="" required><br>
+
+    <input type="submit" value="Submit" name="sub2"><br/>
+</form>
+
+<form action="exam-q8.php" name="form3" method="post">
+    <label>Mass (kg)</label><br/>
+    <input type="text" name="mass3" value="" required><br/>
+    <label>Force (N)</label><br/>
+    <input type="text" name="for3" value="" required><br>
+
+    <input type="submit" value="Submit" name="sub3"><br/>
 </form>
 <h3>
 <?php
@@ -42,42 +59,22 @@ if($_POST['sub'])
 {
     $a = $_POST['acc'];
     $m = $_POST['mass'];
-    $f = $_POST['for'];
-    $missing = "";
-    // A is missing
-    if($a == "" && $m !== "" && $f !== "")
-        $missing = "a";
-    // Nothing is missing
-    else if($a !== "" && $m !== "" && $f !== "")
-        $missing = "none";
-    // M Is missing
-    else if($a !== "" && $m == "" && $f !== "")
-        $missing = "m";
-    // F is missing
-    else if($a !== "" && $m !== "" && $f == "")
-        $missing = "a";
-    // >1 is missing
-    else
-        $missing = "toomany";
+    echo "When a force of " . calcForce($m, $a) . " is applied to a " . $m ." kg object it will accelerate at " . $a ."  m/s/s.";
 
-    switch($missing)
-    {
-        case "a":
-            $a = calcAcc($f, $m);
-            break;
-        case "m":
-            $m = calcMass($a, $f);
-            break;
-        case "f":
-            $f = calcForce($m, $a);
-            break;
-        case "toomany":
-            echo "Too many missing variables";
-            return;
-        case "none":
-            break;
-    }
-    echo "When a force of " . calcForce($m, $a) . " is applied to a " . calcMass($a, $f)." kg object it will accelerate at " . calcAcc($f, $m) ."  m/s/s.";
+}
+if($_POST['sub2'])
+{
+    $f2 = $_POST['for2'];
+    $a2 = $_POST['acc2'];
+    echo "When a force of " . $f2 . " is applied to a " . calcMass($a2, $f2) ." kg object it will accelerate at " . $a2 ."  m/s/s.";
+
+}
+if($_POST['sub3'])
+{
+    $f3 = $_POST['for3'];
+    $m3 =$_POST['mass3'];
+    echo "When a force of " . $f3 . " is applied to a " . $m3 ." kg object it will accelerate at " . calcAcc($f3, $m3) ."  m/s/s.";
+
 }
 ?>
 </h3>

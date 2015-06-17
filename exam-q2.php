@@ -11,12 +11,12 @@
 </head>
 <body>
 <h1>Exam Question 2</h1>
-<?php
-echo "<form action='exam-q2.php' method='GET'>";
-echo "<label>Guess a # between 1 and 10:</label><br/><input type='text' name='num1' value=''/><br/>";
-echo "<input type='submit' name='subBtn' value='Guess Now!'/>";
-echo "</form>";
 
+<form action='exam-q2.php' method='GET'>
+<label>Guess a # between 1 and 10:</label><br/><input type='text' name='num1' value=''/><br/>
+<input type='submit' name='subBtn' value='Guess Now!'/>
+
+<?php
 if ($_GET['subBtn'])
 {
     $num1 = $_GET['num1'];

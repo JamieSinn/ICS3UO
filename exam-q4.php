@@ -30,10 +30,10 @@ function returnVolume($L,$W,$H)
     <input type="text" value="" name="l"><br/>
     <input type="text" value="" name="w"><br/>
     <input type="text" value="" name="h"><br/>
-    <input type="submit" name="submit" value="Submit Now"/>
+    <input type='submit' name='subBtn' value='Guess Now!'/>
 </form>
 <?php
-if($_POST['get']) {
+if($_POST['subBtn']) {
     $l = $_POST['l'];
     $w = $_POST['w'];
     $h = $_POST['h'];
