@@ -16,7 +16,7 @@ session_start();
 <h3>Demonstrates rolling a die</h3>
 
 <form name="form1" action="activity-dice-game.php" method="post">
-    <label>Guess the roll</label>
+    <label>Guess the roll</label><br/>
     <select name="guess">
         <option value="1">1</option>
         <option value="2">2</option>
@@ -24,10 +24,10 @@ session_start();
         <option value="4">4</option>
         <option value="5">5</option>
         <option value="6">6</option>
-    </select>
-    <label>Wager credits; You start with 10; Double or nothing</label>
-    <input type="number" name="credits" value="">
-    <input type="submit" name="subButton" value="Send"/>
+    </select><br/>
+    <label>Wager credits; You start with 10; Double or nothing</label><br/>
+    <input type="number" name="credits" value=""><br/>
+    <input type="submit" name="subButton" value="Send"/><br>
 </form>
 <?php
 
@@ -44,7 +44,7 @@ if($_POST['subButton']) {
 
     // rand() function randomly picks a number between 1 and 6 and assigns it to the variable $roll
     $roll = rand(1, 6);
-    if ($credits > 0 && $credits <= $_SESSION['credits'])
+    if ($credits > 0 && $credits <= $_SESSION['credits'] || $_SESSION['credits'] - $credits < 0)
         $_SESSION['credits'] -= $credits;
     else
     {
@@ -53,8 +53,8 @@ if($_POST['subButton']) {
     }
 
 
-    echo "<p>You rolled a " . $roll . ". </p>";
-    echo "You guessed: " . $guess;
+    echo "<p>You rolled a " . $roll . ". </p><br/>";
+    echo "You guessed: " . $guess . "<br/>";
     if($guess == $roll)
     {
         echo "You guessed correctly! Congrats.";
