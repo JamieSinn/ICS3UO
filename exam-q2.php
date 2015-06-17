@@ -13,10 +13,10 @@
 <h1>Exam Question 2</h1>
 <?php
 echo "<form action='exam-q2.php' method='GET'>";
-echo "Guess a # between 1 and 10: <input type='text' name='num1' value=''/><br/>";
+echo "<label>Guess a # between 1 and 10:</label><br/><input type='text' name='num1' value=''/><br/>";
 echo "<input type='submit' name='subBtn' value='Guess Now!'/>";
 
-if ($_POST['subBtn'])
+if ($_GET['subBtn'])
 {
     $num1 = $_GET['num1'];
     echo "<p>You guessed #" . $num1 . "</p>";
@@ -27,7 +27,7 @@ if ($_POST['subBtn'])
 }
 ?>
 <p>
-    Quite a few errors, such as = instead of == in an if statement, the form action, no semicolon, etc. Many, many errors that were blatant.
+    Quite a few errors, such as = instead of == in an if statement, the form action, no semicolon, post instead of get, etc. Many, many errors that were blatant.
 </p>
 </body>
 </html>

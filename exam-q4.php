@@ -30,21 +30,19 @@ function returnVolume($L,$W,$H)
     <input type="text" value="" name="l"><br/>
     <input type="text" value="" name="w"><br/>
     <input type="text" value="" name="h"><br/>
-    <input type="submit" value="Submit Now"/>
+    <input type="submit" name="submit" value="Submit Now"/>
 </form>
 <?php
-if($_POST['submit'])
-{
+if($_POST['submit']) {
     $l = $_POST['l'];
     $w = $_POST['w'];
     $h = $_POST['h'];
 
-    if(!is_numeric($l) || !is_numeric($w) || !is_numeric($h))
-        echo "Error: You did not put a numeric value for one or more inputs";
+    if (!is_numeric($l) || !is_numeric($w) || !is_numeric($h))
+        echo "<p>Error: You did not put a numeric value for one or more inputs</p>";
     else
-        returnVolume($l,$w,$h);
+        echo "<p>The volume of the room is " . calcVolume($L, $W, $H) . " m<sup>3</sup></p>";
 }
-
 ?>
 </body>
 </html>

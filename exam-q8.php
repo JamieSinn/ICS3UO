@@ -24,7 +24,7 @@ function calcMass($a, $f)
     <link rel="stylesheet" href="styles.css?v=1.0">
     <link href='http://fonts.googleapis.com/css?family=Arizonia' rel='stylesheet' type='text/css'>
 </head>
-<body style="background-image: url(https://upload.wikimedia.org/wikipedia/commons/3/39/GodfreyKneller-IsaacNewton-1689.jpg); opacity: 30; font-family: 'Arizonia', cursive;">
+<body style="background-image: url(https://upload.wikimedia.org/wikipedia/commons/3/39/GodfreyKneller-IsaacNewton-1689.jpg); opacity: 30; font-family: 'Arizonia', cursive; color: white; font-size: larger;">
 <h1>Newton’s Second Law</h1>
 <p>Newton’s second law is a mathematical relationship between the force, mass and acceleration of an object.  In this activity you will calculate the force required to accelerate a mass.</p>
 <form action="exam-q8.php" name="form" method="post">
@@ -78,10 +78,6 @@ if($_POST['sub'])
             break;
     }
 
-    if(!is_numeric($a) || !is_numeric($m) || !is_numeric($f)) {
-        echo "Error: Invalid entry, numeric values only.";
-        return;
-    }
 
 
     echo "When a force of " . calcForce($m, $a) . " is applied to a " . $m ." kg object it will accelerate at " . $a ."  m/s/s.";
