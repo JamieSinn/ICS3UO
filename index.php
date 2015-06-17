@@ -62,7 +62,15 @@
         <a href="perftask-gas-mileage.php">Performance Task: Gas Mileage</a><br/>
         <a href="perftask-square-vs-squared.php">Performance Task: Sqauare vs Squared</a><br/>
         <a href="perftask-rock-paper-scissors.php">Perfomance Task: Rock Paper Scissors</a><br/>
-        <a href="doppler-effect-calculator.php">Performance Task Extra: Doppler Effect Calculator</a>
+        <a href="doppler-effect-calculator.php">Performance Task Extra: Doppler Effect Calculator</a><br/>
+        <a href="exam-q1.php">Exam #1</a><br/>
+        <a href="exam-q2.php">Exam #2</a><br/>
+        <a href="exam-q3.php">Exam #3</a><br/>
+        <a href="exam-q4.php">Exam #4</a><br/>
+        <a href="exam-q5.php">Exam #5</a><br/>
+        <a href="exam-q6.php?num1=5&num2=20&loop=yes">Exam #6</a><br/>
+        <a href="exam-q7.php">Exam #7</a><br/>
+        <a href="exam-q8.php">Exam #8</a><br/>
     </p>
 
 
