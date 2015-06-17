@@ -15,6 +15,7 @@
 echo "<form action='exam-q2.php' method='GET'>";
 echo "<label>Guess a # between 1 and 10:</label><br/><input type='text' name='num1' value=''/><br/>";
 echo "<input type='submit' name='subBtn' value='Guess Now!'/>";
+echo "</form>";
 
 if ($_GET['subBtn'])
 {

@@ -45,16 +45,16 @@ if($_POST['sub'])
     $f = $_POST['for'];
     $missing = "";
     // A is missing
-    if($a == "" && $m != "" && $f != "")
+    if($a == "" && $m !== "" && $f !== "")
         $missing = "a";
     // Nothing is missing
-    else if($a != "" && $m != "" && $f != "")
+    else if($a !== "" && $m !== "" && $f !== "")
         $missing = "none";
     // M Is missing
-    else if($a != "" && $m == "" && $f != "")
+    else if($a !== "" && $m == "" && $f !== "")
         $missing = "m";
     // F is missing
-    else if($a != "" && $m != "" && $f == "")
+    else if($a !== "" && $m !== "" && $f == "")
         $missing = "a";
     // >1 is missing
     else
@@ -77,14 +77,11 @@ if($_POST['sub'])
         case "none":
             break;
     }
-
-
-
-    echo "When a force of " . calcForce($m, $a) . " is applied to a " . $m ." kg object it will accelerate at " . $a ."  m/s/s.";
+    echo "When a force of " . calcForce($m, $a) . " is applied to a " . calcMass($a, $f)." kg object it will accelerate at " . calcAcc($f, $m) ."  m/s/s.";
 }
 ?>
 </h3>
-<h4><a href="http://www.biography.com/people/isaac-newton-9422656">Sir Issac Newton's Biography</a></h4>
+<h3><a href="http://www.biography.com/people/isaac-newton-9422656" style="color: white;">Sir Issac Newton's Biography</a></h3>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nO7XeYPi2FU" frameborder="0" allowfullscreen></iframe>
 </body>
 </html>

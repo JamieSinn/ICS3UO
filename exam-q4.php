@@ -25,7 +25,7 @@ function returnVolume($L,$W,$H)
 <h1>Exam Question 4</h1>
 <p>Issues: Invalid variables used inside the function.</p>
 <p>Fix: Change the internal variables, or the inputted names to either L,W,H, or length,width,height</p>
-<form action="exam-q4.php" method="post" name="form">
+<form action="exam-q4.php" method="get">
     <label>X Value, AKA Length</label><br/>
     <input type="text" value="" name="l"><br/>
     <input type="text" value="" name="w"><br/>
@@ -33,7 +33,7 @@ function returnVolume($L,$W,$H)
     <input type="submit" name="submit" value="Submit Now"/>
 </form>
 <?php
-if($_POST['submit']) {
+if($_POST['get']) {
     $l = $_POST['l'];
     $w = $_POST['w'];
     $h = $_POST['h'];
@@ -41,7 +41,7 @@ if($_POST['submit']) {
     if (!is_numeric($l) || !is_numeric($w) || !is_numeric($h))
         echo "<p>Error: You did not put a numeric value for one or more inputs</p>";
     else
-        echo "<p>The volume of the room is " . calcVolume($L, $W, $H) . " m<sup>3</sup></p>";
+        echo "<p>The volume of the room is " . calcVolume($l, $w, $h) . " m<sup>3</sup></p>";
 }
 ?>
 </body>
