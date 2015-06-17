@@ -25,7 +25,7 @@ function returnVolume($L,$W,$H)
 <h1>Exam Question 4</h1>
 <p>Issues: Invalid variables used inside the function.</p>
 <p>Fix: Change the internal variables, or the inputted names to either L,W,H, or length,width,height</p>
-<form action="exam-q4.php" method="get">
+<form action="exam-q4.php" method="post">
     <label>X Value, AKA Length</label><br/>
     <input type="text" value="" name="l"><br/>
     <input type="text" value="" name="w"><br/>
