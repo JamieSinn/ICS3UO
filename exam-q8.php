@@ -59,21 +59,21 @@ if($_POST['sub'])
 {
     $a = $_POST['acc'];
     $m = $_POST['mass'];
-    echo "When a force of " . calcForce($m, $a) . " is applied to a " . $m ." kg object it will accelerate at " . $a ."  m/s/s.";
+    echo "<p>When a force of " . calcForce($m, $a) . " is applied to a " . $m ." kg object it will accelerate at " . $a ."  m/s/s.</p>";
 
 }
 if($_POST['sub2'])
 {
     $f2 = $_POST['for2'];
     $a2 = $_POST['acc2'];
-    echo "When a force of " . $f2 . " is applied to a " . calcMass($a2, $f2) ." kg object it will accelerate at " . $a2 ."  m/s/s.";
+    echo "<p>When a force of " . $f2 . " is applied to a " . calcMass($a2, $f2) ." kg object it will accelerate at " . $a2 ."  m/s/s.</p>";
 
 }
 if($_POST['sub3'])
 {
     $f3 = $_POST['for3'];
     $m3 =$_POST['mass3'];
-    echo "When a force of " . $f3 . " is applied to a " . $m3 ." kg object it will accelerate at " . calcAcc($f3, $m3) ."  m/s/s.";
+    echo "<p>When a force of " . $f3 . " is applied to a " . $m3 ." kg object it will accelerate at " . calcAcc($f3, $m3) ."  m/s/s.</p>";
 
 }
 ?>
